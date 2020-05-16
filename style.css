@@ -1,8 +1,3 @@
-/* 
-    Created on : Jan 6, 2020, 7:22:27 PM
-    Author     : s-r-p
-*/
-
 body {
   font-family: Roboto, sans-serif;
   background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
@@ -36,10 +31,10 @@ a {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/personal_portfolio/background.jpeg');
+  background-image: url('nathan-anderson-L95xDkSSuWw-unsplash.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 400px;
+  height: 300px;
 }
 
 .jumbotron h2 {
@@ -108,4 +103,3 @@ footer .col-sm-8 {
 footer ul {
   list-style: none;
 }
-
