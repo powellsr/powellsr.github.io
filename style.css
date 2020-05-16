@@ -1,6 +1,8 @@
 body {
   font-family: Roboto, sans-serif;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  background-image: url('dollar-gill-aXw8_Mk0LXU-unsplash.jpg');
+ /* background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');*/
+  /* <a href="https://www.freevector.com/colorful-geometric-background-vector-30358">FreeVector.com</a> */
 }
 
 header {
@@ -35,6 +37,7 @@ a {
   background-size: cover;
   color: #ffffff;
   height: 300px;
+  /* Photo by Nathan Anderson https://unsplash.com/@nathananderson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText on Unsplash https://unsplash.com/ */
 }
 
 .jumbotron h2 {
