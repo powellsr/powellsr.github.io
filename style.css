@@ -1,6 +1,10 @@
 body {
   font-family: Roboto, sans-serif;
-  background-image: url('dollar-gill-aXw8_Mk0LXU-unsplash.jpg');
+  /* color: #ffffff; */
+  background-image: url('2048px-Abstract-background-white-12.jpg');
+  background-repeat: no-repeat;
+  background-color: #ffffff;
+  /* <a href="https://commons.wikimedia.org/wiki/File:Abstract-background-white-12.jpg" title="via Wikimedia Commons">Davmormar</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a> */
  /* background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');*/
   /* <a href="https://www.freevector.com/colorful-geometric-background-vector-30358">FreeVector.com</a> */
 }
