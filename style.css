@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   /* color: #ffffff; */
-  background-image: url('2048px-Abstract-background-white-12.jpg');
+  background-image: url('images/2048px-Abstract-background-white-12.jpg');
   background-repeat: no-repeat;
   background-color: #ffffff;
   /* <a href="https://commons.wikimedia.org/wiki/File:Abstract-background-white-12.jpg" title="via Wikimedia Commons">Davmormar</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a> */
@@ -37,7 +37,7 @@ a {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('nathan-anderson-L95xDkSSuWw-unsplash.jpg');
+  background-image: url('images/nathan-anderson-L95xDkSSuWw-unsplash.jpg');
   background-size: cover;
   color: #ffffff;
   height: 300px;
